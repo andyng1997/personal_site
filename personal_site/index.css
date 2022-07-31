@@ -1,0 +1,16 @@
+main{
+    font-family: cursive;
+    color: black;
+    text-align: center;
+}
+h3{
+    font-size: 80px;
+}
+
+#description {
+    font-size: 40px;
+}
+
+#quote {
+    font-size: larger;
+}

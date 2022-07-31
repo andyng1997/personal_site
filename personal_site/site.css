@@ -1,0 +1,26 @@
+body {
+    background-color: slategray;
+    background-image: url(https://wallpaperaccess.com/full/3019985.jpg);
+}
+
+header {
+    font-size: 30px;
+    font-weight: bold;
+    background-color: skyblue;
+    padding: 0.5em 1em;
+    font-family: 'Raleway', sans-serif;
+    
+}
+
+.top-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+main {
+    min-height: 100vh;
+    padding: 64px 24px 96px;
+    box-shadow: 0 0 12px -2px black;
+    }
+    
